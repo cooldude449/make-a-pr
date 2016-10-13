@@ -4,7 +4,7 @@
 
 Student at DTU
 
-###Development
+###Development 
 
 Android, Python and PHP developer   
 
